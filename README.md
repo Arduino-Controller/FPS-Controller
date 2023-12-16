@@ -24,7 +24,7 @@
 <ul>
     <li> 세종대학교 전자정보통신공학과 박상욱 - 개발 + 제작
     <li> 세종대학교 전자정보통신공학과 문창민 - 제작
-    <it> 세종대학교 전자정보통신공학과 정유철 - 개발
+    <li> 세종대학교 전자정보통신공학과 정유철 - 개발
     <li> 세종대학교 기계공학과 문아영 - 개발
     <li> 세종대학교 전자정보통신공학과 황세진 - 개발
 </ul>
@@ -47,11 +47,21 @@
 - 왼쪽 몸통에 부착된 조이스틱을 이용하여 줌 on/off 및 조절 지원
 
 ### 컨트롤러 실물 및 시연 이미지
-<img src = "https://github.com/Arduino-Controller/Switch-Controller/blob/main/images/youtube.jpg?raw=true" width=500>
-<img src = "https://github.com/Arduino-Controller/Switch-Controller/blob/main/images/youtube.jpg?raw=true" width=500>
-<img src = "https://github.com/Arduino-Controller/Switch-Controller/blob/main/images/youtube.jpg?raw=true" width=500>
 
-### 컨트롤러 시연 영상
+#### 회로도
+<img src = "https://github.com/Arduino-Controller/FPS-Controller/blob/main/images/circuit.png?raw=true" width=500>
+
+#### 에어건 센서 부착 위치 및 디자인
+<img src = "https://github.com/Arduino-Controller/FPS-Controller/blob/main/images/design.png?raw=true" width=500>
+
+#### FPS 컨트롤러 실물
+<img src = "https://github.com/Arduino-Controller/FPS-Controller/blob/main/images/gun1.jpg?raw=true" width=500>
+<img src = "https://github.com/Arduino-Controller/FPS-Controller/blob/main/images/gun2.jpg?raw=true" width=500>
+
+#### 프로그래밍 전시회 시연
+<img src = "https://github.com/Arduino-Controller/FPS-Controller/blob/main/images/display.jpg?raw=true" width=500>
+
+### 컨트롤러 시연 영상 추후 추가 예정
 <a href="https://youtu.be/Cs2A7J0btR0">
     <img src = "https://github.com/Arduino-Controller/Switch-Controller/blob/main/images/youtube.jpg?raw=true" width=500>
 </a>
