@@ -62,8 +62,8 @@
 <img src = "https://github.com/Arduino-Controller/FPS-Controller/blob/main/images/display.jpg?raw=true" width=500>
 
 ### 컨트롤러 시연 영상 추후 추가 예정
-<a href="https://youtu.be/Cs2A7J0btR0">
-    <img src = "https://github.com/Arduino-Controller/Switch-Controller/blob/main/images/youtube.jpg?raw=true" width=500>
+<a href="https://www.youtube.com/watch?v=qWnTnSh8Dt8">
+    <img src = "https://github.com/Arduino-Controller/FPS-Controller/blob/main/images/FPS_시연.jpg?raw=true" width=500>
 </a>
 
 ### 참고 사이트
