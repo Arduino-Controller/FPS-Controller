@@ -61,7 +61,7 @@
 #### 프로그래밍 전시회 시연
 <img src = "https://github.com/Arduino-Controller/FPS-Controller/blob/main/images/display.jpg?raw=true" width=500>
 
-### 컨트롤러 시연 영상 추후 추가 예정
+### 컨트롤러 시연 영상
 <a href="https://www.youtube.com/watch?v=qWnTnSh8Dt8">
     <img src = "https://github.com/Arduino-Controller/FPS-Controller/blob/main/images/FPS_시연.jpg?raw=true" width=500>
 </a>
